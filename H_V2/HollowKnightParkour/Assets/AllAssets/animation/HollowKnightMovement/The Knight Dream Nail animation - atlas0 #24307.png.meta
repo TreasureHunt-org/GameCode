@@ -1,0 +1,712 @@
+fileFormatVersion: 2
+guid: 0c56b539c150efd4199233d71f24182c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: The Knight Dream Nail animation - atlas0 #24307_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 375
+        width: 127
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10d55065e204334ab5a4537f67f191e
+      internalID: -532640101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Dream Nail animation - atlas0 #24307_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 470
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a08fd7a093f7dc4d851ef3a13293a0a
+      internalID: -1884663320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Dream Nail animation - atlas0 #24307_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 378
+        width: 67
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efdb435935b9a98429a132ba87aa74e6
+      internalID: -903455937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Dream Nail animation - atlas0 #24307_3
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 433
+        width: 77
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63fd9bc175f8d6b40915d18dd1d49e29
+      internalID: 963598748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Dream Nail animation - atlas0 #24307_4
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 451
+        width: 131
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f090c86689ae0e149a0d229e46f248a1
+      internalID: 516055002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Dream Nail animation - atlas0 #24307_5
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 397
+        width: 179
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345974dabc6b2af44b6a788522a2c320
+      internalID: -115862326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Dream Nail animation - atlas0 #24307_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 193
+        width: 227
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09ff1630d36b354fad7370cf02b847a
+      internalID: 1886479735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Dream Nail animation - atlas0 #24307_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 323
+        width: 98
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9355f9a045a9640849f505c8d6ad28
+      internalID: -780969802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Dream Nail animation - atlas0 #24307_8
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 368
+        width: 275
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b863b6e6089bfe42b65030c0aef7ef7
+      internalID: -46148100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Dream Nail animation - atlas0 #24307_9
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 317
+        width: 67
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046806ed014b71c40a85f46b45784295
+      internalID: -803817820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Dream Nail animation - atlas0 #24307_10
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 350
+        width: 131
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06a77c9eddfd1446b66055c74d0fe58
+      internalID: 267025685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Dream Nail animation - atlas0 #24307_11
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 373
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1761c3f89c6262941b67c121c82f2e98
+      internalID: -514969635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Dream Nail animation - atlas0 #24307_12
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 193
+        width: 98
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70db057fb50924042b70a93048a7585c
+      internalID: 328181006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Dream Nail animation - atlas0 #24307_13
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 185
+        width: 158
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ae43db8b1e382448dc5116ccc07ade
+      internalID: 228448532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Dream Nail animation - atlas0 #24307_14
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 313
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867e2b5f40135c5449f90d687fe029d6
+      internalID: -1571499425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Dream Nail animation - atlas0 #24307_15
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 0
+        width: 160
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c029655725067488bca425aa4a6351
+      internalID: 659340376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Dream Nail animation - atlas0 #24307_16
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 189
+        width: 136
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed29b6044b062eb44852ac48c293d6b6
+      internalID: -1187382694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Dream Nail animation - atlas0 #24307_17
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 262
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea5120ef149ec04fa41606d3b4972fb
+      internalID: -2146060485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Dream Nail animation - atlas0 #24307_18
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 269
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8616057193a3c408e52e96b4bada22
+      internalID: -1810648142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Dream Nail animation - atlas0 #24307_19
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 185
+        width: 79
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3812222892453dc47b5e701c47d33f69
+      internalID: -781674247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Dream Nail animation - atlas0 #24307_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 353
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c193f230bc958f43860b276f465af25
+      internalID: 1538368088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Dream Nail animation - atlas0 #24307_21
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 0
+        width: 182
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a282195c1ee828c4093fbccb182f771f
+      internalID: 1538229130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Dream Nail animation - atlas0 #24307_22
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 82
+        width: 72
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38acf15f6790cf448ba14f71517af8c
+      internalID: 2097962486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Dream Nail animation - atlas0 #24307_23
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 0
+        width: 142
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b95d07abedb754f8ebb5341a07d54b
+      internalID: -727799862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Dream Nail animation - atlas0 #24307_24
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232783975dc23804991cfdc87bd9dd30
+      internalID: -1375146507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Dream Nail animation - atlas0 #24307_25
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 25
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5142afad8f071874baf1984c96cb4960
+      internalID: -590789617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      The Knight Dream Nail animation - atlas0 #24307_0: -532640101
+      The Knight Dream Nail animation - atlas0 #24307_1: -1884663320
+      The Knight Dream Nail animation - atlas0 #24307_10: 267025685
+      The Knight Dream Nail animation - atlas0 #24307_11: -514969635
+      The Knight Dream Nail animation - atlas0 #24307_12: 328181006
+      The Knight Dream Nail animation - atlas0 #24307_13: 228448532
+      The Knight Dream Nail animation - atlas0 #24307_14: -1571499425
+      The Knight Dream Nail animation - atlas0 #24307_15: 659340376
+      The Knight Dream Nail animation - atlas0 #24307_16: -1187382694
+      The Knight Dream Nail animation - atlas0 #24307_17: -2146060485
+      The Knight Dream Nail animation - atlas0 #24307_18: -1810648142
+      The Knight Dream Nail animation - atlas0 #24307_19: -781674247
+      The Knight Dream Nail animation - atlas0 #24307_2: -903455937
+      The Knight Dream Nail animation - atlas0 #24307_20: 1538368088
+      The Knight Dream Nail animation - atlas0 #24307_21: 1538229130
+      The Knight Dream Nail animation - atlas0 #24307_22: 2097962486
+      The Knight Dream Nail animation - atlas0 #24307_23: -727799862
+      The Knight Dream Nail animation - atlas0 #24307_24: -1375146507
+      The Knight Dream Nail animation - atlas0 #24307_25: -590789617
+      The Knight Dream Nail animation - atlas0 #24307_3: 963598748
+      The Knight Dream Nail animation - atlas0 #24307_4: 516055002
+      The Knight Dream Nail animation - atlas0 #24307_5: -115862326
+      The Knight Dream Nail animation - atlas0 #24307_6: 1886479735
+      The Knight Dream Nail animation - atlas0 #24307_7: -780969802
+      The Knight Dream Nail animation - atlas0 #24307_8: -46148100
+      The Knight Dream Nail animation - atlas0 #24307_9: -803817820
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

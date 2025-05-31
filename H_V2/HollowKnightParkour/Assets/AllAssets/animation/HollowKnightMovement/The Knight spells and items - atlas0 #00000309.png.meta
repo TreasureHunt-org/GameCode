@@ -1,0 +1,1614 @@
+fileFormatVersion: 2
+guid: 7ceba667b44f2ae4a8813bb767aad09d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: The Knight spells and items - atlas0 #00000309_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1655
+        width: 354
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e0d98b93f9b604fa38cdf54f786d48
+      internalID: -1904111215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight spells and items - atlas0 #00000309_1
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1627
+        width: 1116
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b46f92dade9ee41afe2433dc213f36
+      internalID: 1537395044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight spells and items - atlas0 #00000309_2
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1913
+        width: 200
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab091d5e3a25d87458113015dc8b4ac9
+      internalID: -1199229323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight spells and items - atlas0 #00000309_3
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 2023
+        width: 46
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c70c96065c50814c957ced49472dc0b
+      internalID: 809808723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight spells and items - atlas0 #00000309_4
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 2012
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858b92d29b9cc9141ad4b5ae5123a01f
+      internalID: 248456425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight spells and items - atlas0 #00000309_5
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 1862
+        width: 160
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7d4fb0c84425b438c57e832e6a07d6
+      internalID: -528568282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight spells and items - atlas0 #00000309_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1197
+        width: 208
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11209dad9f74743408ab2b6ec4b20e61
+      internalID: -112738168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight spells and items - atlas0 #00000309_7
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1648
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18fff2a4c375594baa89169d405506f
+      internalID: -1544238070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight spells and items - atlas0 #00000309_8
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 1443
+        width: 437
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38e723ef3d98da4da325b51f1209dab
+      internalID: 1146112363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight spells and items - atlas0 #00000309_9
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 1593
+        width: 405
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6949956eaacae847b1d15448432433f
+      internalID: -333806130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight spells and items - atlas0 #00000309_10
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 1585
+        width: 186
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8756447008787644c909ce7a275a3f68
+      internalID: 517617574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight spells and items - atlas0 #00000309_11
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1517
+        width: 419
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f64e1be27a592d46a182f948d88fcae
+      internalID: 115626260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight spells and items - atlas0 #00000309_12
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1631
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843d3d54e5072fc4797dbeac2e1f16ce
+      internalID: -1961528137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight spells and items - atlas0 #00000309_13
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1485
+        width: 526
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c7cdf0a55497446a1684363eb96da7
+      internalID: -313636999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight spells and items - atlas0 #00000309_14
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 1590
+        width: 65
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f5dfad003b26241a560d18f6d6fa6c
+      internalID: -1324822185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight spells and items - atlas0 #00000309_15
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 1418
+        width: 166
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8354c7e8fef5aa458afb2ec75043b3e
+      internalID: 1565983498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight spells and items - atlas0 #00000309_16
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 1549
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1bd136313be9044ea204ab6a0c68424
+      internalID: 1359544260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight spells and items - atlas0 #00000309_17
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1197
+        width: 291
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda3093072c014742aaf2131e6b576d6
+      internalID: -84734624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight spells and items - atlas0 #00000309_18
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1170
+        width: 289
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ea52e34ab204e4083629f2b7d73d59
+      internalID: 65720046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight spells and items - atlas0 #00000309_19
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1131
+        width: 550
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354bf9b05848e3f4bb70bdd4ee310305
+      internalID: -953074157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight spells and items - atlas0 #00000309_20
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 1282
+        width: 409
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d092456c41172f34ea3abee8b2507789
+      internalID: -297778336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight spells and items - atlas0 #00000309_21
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 1400
+        width: 135
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191a99f4f4a6fba4284114fc9e5be449
+      internalID: -499914463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight spells and items - atlas0 #00000309_22
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 1255
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7704aa52ac02524598aa46763fc418b
+      internalID: -1714529189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight spells and items - atlas0 #00000309_23
+      rect:
+        serializedVersion: 2
+        x: 1966
+        y: 1366
+        width: 48
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a010af250937d744a9d8a913df47a2e
+      internalID: -2058168420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight spells and items - atlas0 #00000309_24
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 1108
+        width: 207
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ced84b10d24c04aa6e5f77cd0b4c16
+      internalID: 223072957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight spells and items - atlas0 #00000309_25
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 1183
+        width: 109
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee244f1f33f34f4982c138d502a0706
+      internalID: -94202089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight spells and items - atlas0 #00000309_26
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 1108
+        width: 143
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1558b391297c44f4caf173bd62d953a0
+      internalID: -814963579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight spells and items - atlas0 #00000309_27
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 1253
+        width: 111
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07340baeb9a3844f9c9532a8dfc1c96
+      internalID: 644723964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight spells and items - atlas0 #00000309_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 852
+        width: 584
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb97223adb0a0d488d1e8dadde7877f
+      internalID: 1917243214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight spells and items - atlas0 #00000309_29
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 1108
+        width: 98
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45f93a533d465a4c8599b73bd7b472e
+      internalID: 368432411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight spells and items - atlas0 #00000309_30
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 1141
+        width: 77
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5446c81c09be644bc1c1dcaaf4355e
+      internalID: -995548091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight spells and items - atlas0 #00000309_31
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 1108
+        width: 147
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69acb71376211b84e923dc7bae0539b1
+      internalID: -568837867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight spells and items - atlas0 #00000309_32
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 816
+        width: 273
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad15400cbbe96c64e819807ac8f16af0
+      internalID: -443251245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight spells and items - atlas0 #00000309_33
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 910
+        width: 141
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc9db09733f5964bb088591feecd9f6
+      internalID: -104052698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight spells and items - atlas0 #00000309_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 453
+        width: 385
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94abf2db36c2f354c8143d67398670c0
+      internalID: -465989063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight spells and items - atlas0 #00000309_35
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 440
+        width: 326
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd1df5dba9b0e2428ee93034a31e74b
+      internalID: -937275086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight spells and items - atlas0 #00000309_36
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 420
+        width: 272
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2731eedd23b6174ba4b057e140f615a
+      internalID: -1766451393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight spells and items - atlas0 #00000309_37
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 713
+        width: 273
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4591068cd55e441942b05ed64d7649
+      internalID: -462913343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight spells and items - atlas0 #00000309_38
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 251
+        width: 295
+        height: 552
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da23e99c414a0cc49a7c28738cfa397a
+      internalID: 1995716504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight spells and items - atlas0 #00000309_39
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 720
+        width: 148
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d16c0937c40454eb8b6040f6b9f0ba
+      internalID: 302515613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight spells and items - atlas0 #00000309_40
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 0
+        width: 289
+        height: 713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b8d7b42537eec4487adc9a1636a167
+      internalID: 1713608046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight spells and items - atlas0 #00000309_41
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 535
+        width: 29
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711fe13f7706bb644b0e26891a11d64d
+      internalID: 2090405145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight spells and items - atlas0 #00000309_42
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 569
+        width: 170
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455ae5c30314f0e44920e76118f989b3
+      internalID: 950554417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight spells and items - atlas0 #00000309_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 431
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e16f65223b39049a91ea12623a2f2b
+      internalID: 1928629976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight spells and items - atlas0 #00000309_44
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 437
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa37a3d2f778b847a1f6700c1a35de4
+      internalID: 1765358134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight spells and items - atlas0 #00000309_45
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 0
+        width: 201
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449db2cac0946cb4bbe12f3fcbec01a9
+      internalID: -1077090949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight spells and items - atlas0 #00000309_46
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 423
+        width: 161
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb917060d25ef04f8ed833d8aefada3
+      internalID: -1555441840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight spells and items - atlas0 #00000309_47
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 0
+        width: 124
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7019b41ccf3a74780ae822b260b81c
+      internalID: -741820747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight spells and items - atlas0 #00000309_48
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 405
+        width: 135
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a445cad8bd67bad469feed1e3e5fdfea
+      internalID: -211845036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight spells and items - atlas0 #00000309_49
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 351
+        width: 322
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1642b8c830b46e844bd84a6d00396538
+      internalID: 1193891258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight spells and items - atlas0 #00000309_50
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 0
+        width: 162
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29100415bfb0714bb9643fadefcc1f6
+      internalID: -668344628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight spells and items - atlas0 #00000309_51
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 0
+        width: 163
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffe0094493968d4daeec4e05623226d
+      internalID: 1450371907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight spells and items - atlas0 #00000309_52
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 254
+        width: 118
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7a1fa2d72d20e42b90d4e9eb080f60
+      internalID: 637241992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight spells and items - atlas0 #00000309_53
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 254
+        width: 91
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1774dcb1850c5f458b3b404020c27a9
+      internalID: -733886077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight spells and items - atlas0 #00000309_54
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 254
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb00f494a0d6e544b8e3614f2145dc7
+      internalID: 1384213815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight spells and items - atlas0 #00000309_55
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 254
+        width: 90
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb6f2349bfad4844bceac72d6acf912
+      internalID: -560552705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight spells and items - atlas0 #00000309_56
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 0
+        width: 309
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da76ded4913bebc408562d7cd43e1f69
+      internalID: -1228913891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight spells and items - atlas0 #00000309_57
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 176
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e9a0131fc1f764e8b6ef01cc9ac5a2
+      internalID: -1680045525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight spells and items - atlas0 #00000309_58
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 176
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5353e96333f02f648b769b8327fb27ff
+      internalID: -2048414648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight spells and items - atlas0 #00000309_59
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 130
+        width: 202
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500f4765cda155748a2695fad3a897c7
+      internalID: 491528864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight spells and items - atlas0 #00000309_60
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 0
+        width: 66
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de633fe53ed25944882c2d5af2458ccd
+      internalID: -1323119411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight spells and items - atlas0 #00000309_61
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 111
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2bcadb9608a194e991335839804627
+      internalID: 1186194322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight spells and items - atlas0 #00000309_62
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 82
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de2a1b107e3db4459439a2ef87bce6c
+      internalID: -1795957063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight spells and items - atlas0 #00000309_63
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 60
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a0ecc6b2a3c0d44b3e3209a4d02134
+      internalID: 2091171048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight spells and items - atlas0 #00000309_64
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 13
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8764eddfbfe6f6748871a5ad2e2ea27a
+      internalID: -465698783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight spells and items - atlas0 #00000309_65
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 0
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef447d194a6e96241a0fc9075f6e20f4
+      internalID: 1849610442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight spells and items - atlas0 #00000309_66
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 0
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cdba7134f12a14408358dbb8e99cfaa
+      internalID: -2023191709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      The Knight spells and items - atlas0 #00000309_0: -1904111215
+      The Knight spells and items - atlas0 #00000309_1: 1537395044
+      The Knight spells and items - atlas0 #00000309_10: 517617574
+      The Knight spells and items - atlas0 #00000309_11: 115626260
+      The Knight spells and items - atlas0 #00000309_12: -1961528137
+      The Knight spells and items - atlas0 #00000309_13: -313636999
+      The Knight spells and items - atlas0 #00000309_14: -1324822185
+      The Knight spells and items - atlas0 #00000309_15: 1565983498
+      The Knight spells and items - atlas0 #00000309_16: 1359544260
+      The Knight spells and items - atlas0 #00000309_17: -84734624
+      The Knight spells and items - atlas0 #00000309_18: 65720046
+      The Knight spells and items - atlas0 #00000309_19: -953074157
+      The Knight spells and items - atlas0 #00000309_2: -1199229323
+      The Knight spells and items - atlas0 #00000309_20: -297778336
+      The Knight spells and items - atlas0 #00000309_21: -499914463
+      The Knight spells and items - atlas0 #00000309_22: -1714529189
+      The Knight spells and items - atlas0 #00000309_23: -2058168420
+      The Knight spells and items - atlas0 #00000309_24: 223072957
+      The Knight spells and items - atlas0 #00000309_25: -94202089
+      The Knight spells and items - atlas0 #00000309_26: -814963579
+      The Knight spells and items - atlas0 #00000309_27: 644723964
+      The Knight spells and items - atlas0 #00000309_28: 1917243214
+      The Knight spells and items - atlas0 #00000309_29: 368432411
+      The Knight spells and items - atlas0 #00000309_3: 809808723
+      The Knight spells and items - atlas0 #00000309_30: -995548091
+      The Knight spells and items - atlas0 #00000309_31: -568837867
+      The Knight spells and items - atlas0 #00000309_32: -443251245
+      The Knight spells and items - atlas0 #00000309_33: -104052698
+      The Knight spells and items - atlas0 #00000309_34: -465989063
+      The Knight spells and items - atlas0 #00000309_35: -937275086
+      The Knight spells and items - atlas0 #00000309_36: -1766451393
+      The Knight spells and items - atlas0 #00000309_37: -462913343
+      The Knight spells and items - atlas0 #00000309_38: 1995716504
+      The Knight spells and items - atlas0 #00000309_39: 302515613
+      The Knight spells and items - atlas0 #00000309_4: 248456425
+      The Knight spells and items - atlas0 #00000309_40: 1713608046
+      The Knight spells and items - atlas0 #00000309_41: 2090405145
+      The Knight spells and items - atlas0 #00000309_42: 950554417
+      The Knight spells and items - atlas0 #00000309_43: 1928629976
+      The Knight spells and items - atlas0 #00000309_44: 1765358134
+      The Knight spells and items - atlas0 #00000309_45: -1077090949
+      The Knight spells and items - atlas0 #00000309_46: -1555441840
+      The Knight spells and items - atlas0 #00000309_47: -741820747
+      The Knight spells and items - atlas0 #00000309_48: -211845036
+      The Knight spells and items - atlas0 #00000309_49: 1193891258
+      The Knight spells and items - atlas0 #00000309_5: -528568282
+      The Knight spells and items - atlas0 #00000309_50: -668344628
+      The Knight spells and items - atlas0 #00000309_51: 1450371907
+      The Knight spells and items - atlas0 #00000309_52: 637241992
+      The Knight spells and items - atlas0 #00000309_53: -733886077
+      The Knight spells and items - atlas0 #00000309_54: 1384213815
+      The Knight spells and items - atlas0 #00000309_55: -560552705
+      The Knight spells and items - atlas0 #00000309_56: -1228913891
+      The Knight spells and items - atlas0 #00000309_57: -1680045525
+      The Knight spells and items - atlas0 #00000309_58: -2048414648
+      The Knight spells and items - atlas0 #00000309_59: 491528864
+      The Knight spells and items - atlas0 #00000309_6: -112738168
+      The Knight spells and items - atlas0 #00000309_60: -1323119411
+      The Knight spells and items - atlas0 #00000309_61: 1186194322
+      The Knight spells and items - atlas0 #00000309_62: -1795957063
+      The Knight spells and items - atlas0 #00000309_63: 2091171048
+      The Knight spells and items - atlas0 #00000309_64: -465698783
+      The Knight spells and items - atlas0 #00000309_65: 1849610442
+      The Knight spells and items - atlas0 #00000309_66: -2023191709
+      The Knight spells and items - atlas0 #00000309_7: -1544238070
+      The Knight spells and items - atlas0 #00000309_8: 1146112363
+      The Knight spells and items - atlas0 #00000309_9: -333806130
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

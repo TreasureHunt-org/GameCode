@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/AllAssets/Scripts/Scenes/MainMenu.unity
+    guid: a9f6af02e028ba44a9442abe4f890d4e
+  - enabled: 1
+    path: Assets/AllAssets/Scripts/Scenes/Cinematic.unity
+    guid: dc2bd0600426805429c0edf6cc0d162e
+  - enabled: 1
+    path: Assets/AllAssets/Scripts/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/AllAssets/Scripts/Scenes/CityOfTears.unity
+    guid: 9a65540f962c2d94fb40fd3bf3269525
+  - enabled: 1
+    path: Assets/AllAssets/Scripts/Scenes/Abyss.unity
+    guid: 42bcc1029afa88d4c9e64a9aa750594a
+  - enabled: 1
+    path: Assets/AllAssets/Scripts/Scenes/WhitePalace.unity
+    guid: e523fcddfdc71324bbf1123cd84b9d53
+  - enabled: 1
+    path: Assets/AllAssets/Scripts/Scenes/TryAgain.unity
+    guid: f12634406b774454f96c998bd44da173
+  - enabled: 1
+    path: Assets/AllAssets/Scripts/Scenes/BossFight.unity
+    guid: 44de7145fd337e645893b97b2b001a2c
+  m_configObjects: {}
